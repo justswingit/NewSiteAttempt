@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NewSiteAttempt/static/css/main.4b93e3a0.css",
-    "main.js": "/NewSiteAttempt/static/js/main.f5527b2d.js",
-    "static/media/PhysicsHeaderImage02.png": "/NewSiteAttempt/static/media/PhysicsHeaderImage02.bcbeae5c597a1144d138.png",
-    "static/media/AboutHeaderImage05.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage05.16c2c4bc71e1edf59f06.JPG",
-    "static/media/AboutHeaderImage01.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage01.a24c90c917d464fc9bc1.JPG",
-    "static/media/HomeHeaderImage01.jpeg": "/NewSiteAttempt/static/media/HomeHeaderImage01.72d06975e66add94b5ac.jpeg",
-    "static/media/PortfolioHeaderImage01.jpeg": "/NewSiteAttempt/static/media/PortfolioHeaderImage01.0a40229b3fe17741fa09.jpeg",
-    "static/media/MathHeaderImage01.png": "/NewSiteAttempt/static/media/MathHeaderImage01.f3c5314719215a2834ea.png",
-    "static/media/MusicHeaderImage01.png": "/NewSiteAttempt/static/media/MusicHeaderImage01.748a6cd86d2cb2039c3c.png",
-    "index.html": "/NewSiteAttempt/index.html",
-    "main.4b93e3a0.css.map": "/NewSiteAttempt/static/css/main.4b93e3a0.css.map",
-    "main.f5527b2d.js.map": "/NewSiteAttempt/static/js/main.f5527b2d.js.map"
+    "main.css": "/static/css/main.a435b0aa.css",
+    "main.js": "/static/js/main.f5527b2d.js",
+    "static/media/PhysicsHeaderImage02.png": "/static/media/PhysicsHeaderImage02.bcbeae5c597a1144d138.png",
+    "static/media/AboutHeaderImage05.JPG": "/static/media/AboutHeaderImage05.16c2c4bc71e1edf59f06.JPG",
+    "static/media/AboutHeaderImage01.JPG": "/static/media/AboutHeaderImage01.a24c90c917d464fc9bc1.JPG",
+    "static/media/HomeHeaderImage01.jpeg": "/static/media/HomeHeaderImage01.72d06975e66add94b5ac.jpeg",
+    "static/media/PortfolioHeaderImage01.jpeg": "/static/media/PortfolioHeaderImage01.0a40229b3fe17741fa09.jpeg",
+    "static/media/MathHeaderImage01.png": "/static/media/MathHeaderImage01.f3c5314719215a2834ea.png",
+    "static/media/MusicHeaderImage01.png": "/static/media/MusicHeaderImage01.748a6cd86d2cb2039c3c.png",
+    "index.html": "/index.html",
+    "main.a435b0aa.css.map": "/static/css/main.a435b0aa.css.map",
+    "main.f5527b2d.js.map": "/static/js/main.f5527b2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b93e3a0.css",
+    "static/css/main.a435b0aa.css",
     "static/js/main.f5527b2d.js"
   ]
 }
