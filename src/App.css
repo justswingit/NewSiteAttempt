@@ -1,4 +1,26 @@
-.App {
+@import url('https://fonts.cdnfonts.com/css/latin-modern-math');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Latin Modern Math", sans-serif;
+}
+
+
+/*
+.home {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  background-color: #fff; /* this gives the color of the top rail 
+  color: #000;
+  position: relative;
+}
+*/
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +58,4 @@
     transform: rotate(360deg);
   }
 }
+*/
