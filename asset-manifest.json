@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NewSiteAttempt/static/css/main.4b93e3a0.css",
-    "main.js": "/NewSiteAttempt/static/js/main.c64a2159.js",
+    "main.css": "/NewSiteAttempt/static/css/main.a9f0b65f.css",
+    "main.js": "/NewSiteAttempt/static/js/main.fb72c24e.js",
     "static/media/PhysicsHeaderImage02.png": "/NewSiteAttempt/static/media/PhysicsHeaderImage02.bcbeae5c597a1144d138.png",
     "static/media/AboutHeaderImage05.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage05.16c2c4bc71e1edf59f06.JPG",
     "static/media/AboutHeaderImage01.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage01.a24c90c917d464fc9bc1.JPG",
@@ -10,11 +10,11 @@
     "static/media/MathHeaderImage01.png": "/NewSiteAttempt/static/media/MathHeaderImage01.f3c5314719215a2834ea.png",
     "static/media/MusicHeaderImage01.png": "/NewSiteAttempt/static/media/MusicHeaderImage01.748a6cd86d2cb2039c3c.png",
     "index.html": "/NewSiteAttempt/index.html",
-    "main.4b93e3a0.css.map": "/NewSiteAttempt/static/css/main.4b93e3a0.css.map",
-    "main.c64a2159.js.map": "/NewSiteAttempt/static/js/main.c64a2159.js.map"
+    "main.a9f0b65f.css.map": "/NewSiteAttempt/static/css/main.a9f0b65f.css.map",
+    "main.fb72c24e.js.map": "/NewSiteAttempt/static/js/main.fb72c24e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b93e3a0.css",
-    "static/js/main.c64a2159.js"
+    "static/css/main.a9f0b65f.css",
+    "static/js/main.fb72c24e.js"
   ]
 }
