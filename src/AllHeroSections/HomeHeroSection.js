@@ -5,8 +5,10 @@ import     './HomeHeroSection.css';
 function HomeHeroSection () {
     return (
         <div className='hero-container'>
-            <h1>Welcome to Professional Average!</h1>
-            <p> This is where you will see the honest work of a person to judge and measure his capability beyond general student statistics!</p>
+            <h1>Welcome to Physics Baby!</h1>
+            <p> This is where you will see the honest work of a 
+                person to judge and measure his capability beyond 
+                general student statistics!</p>
         </div>
     )
 }
