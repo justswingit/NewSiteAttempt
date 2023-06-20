@@ -1,5 +1,5 @@
 import     React   from 'react';
-import './ResearchProjects.css';
+import "../../PortfolioDetail/Portfolio.css"
 
 function SFSUResearch() {
   return (

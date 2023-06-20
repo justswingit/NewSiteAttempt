@@ -1,0 +1,273 @@
+
+/* Research Projects Section */
+.researchProjects > h1 {
+    text-align: center;
+    font-size:    3rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.researchProjects > hr {
+    color:rgb(4, 4, 255);
+    margin: auto;
+    width: 50rem;
+    height: 10px;
+    display: flex;
+    justify-items: center;
+    position: center;
+    border: relative;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgba(77, 27, 112, 0.504), rgb(107, 28, 28));
+    margin-top:   1rem;
+    margin-bottom:1rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.nakamuraResearch > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto ;
+}
+.nakamuraResearch > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.sfsuResearch > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto ;
+}
+.sfsuResearch > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* Special Topics Section */
+.specialTopics > h1 {
+    text-align: center;
+    font-size:    3rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.specialTopics > p { 
+    text-align: center;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.specialTopics > hr{
+    color:rgb(4, 4, 255);
+    margin: auto;
+    width: 50rem;
+    height: 10px;
+    display: flex;
+    justify-items: center;
+    position: center;
+    border: relative;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgba(77, 27, 112, 0.504), rgb(107, 28, 28));
+    margin-top:   1rem;
+    margin-bottom:1rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.ece594u > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.ece594u > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.matrl290 > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.matrl290 > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* Featured Classwork Section */
+.featuredClasswork > h1 {
+    text-align: center;
+    font-size:    3rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.featuredClasswork > p {
+    text-align: center;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.featuredClasswork > hr{
+    color:rgb(4, 4, 255);
+    margin: auto;
+    width: 50rem;
+    height: 10px;
+    display: flex;
+    justify-items: center;
+    position: center;
+    border: relative;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgba(77, 27, 112, 0.504), rgb(107, 28, 28));
+    margin-top:   1rem;
+    margin-bottom:1rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.phys123a > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys123a > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys123b > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys123b > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys141 > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys141 > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys127al > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.phys127al > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.seniorLab > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.seniorLab > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* CC Projects Section */
+.ccProjects > h1 {
+    text-align: center;
+    font-size:   3rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.ccProjects > hr{
+    color:rgb(4, 4, 255);
+    margin: auto;
+    width: 50rem;
+    height: 10px;
+    display: flex;
+    justify-items: center;
+    position: center;
+    border: relative;
+    border-radius: 20px;
+    background: linear-gradient(to right, rgba(77, 27, 112, 0.504), rgb(107, 28, 28));
+    margin-top:   1rem;
+    margin-bottom:1rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.coil > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.coil > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.drone > h1 {
+    text-align: left;
+    font-size:    2rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.drone > p {
+    text-align: left;
+    font-size:    1.25rem;
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+}

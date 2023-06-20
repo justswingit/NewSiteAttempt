@@ -6,16 +6,17 @@ import {
   RouterProvider,
   Route,
   Outlet
-}                   from "react-router-dom"      ;
+}                   from "react-router-dom"       ;
 import Home         from "./routess/Home"         ;
+import Portfolio    from "./routess/Portfolio"    ;
 import Physics      from "./routess/Physics"      ;
 import Math         from "./routess/Math"         ;
 import Music        from "./routess/Music"        ;
+import Research     from "./routess/Research"     ;
 import Blog         from "./routess/Blog"         ;
 import About        from "./routess/About"        ;
-import Portfolio    from "./routess/Portfolio";
-import Navbar       from "./Components/Navbar"   ;
-import                   "./App.css"             ;
+import Navbar       from "./Components/Navbar"    ;
+import                   "./App.css"              ;
 
 const AppLayout = () => (
   <>
@@ -26,6 +27,7 @@ const AppLayout = () => (
 const router = createBrowserRouter(createRoutesFromElements(<Route element={<AppLayout />}>
        <Route path="/"          element={<Home      />} />
        <Route path="/Portfolio" element={<Portfolio />} />
+       <Route path="/Research"  element={<Research  />} />
        <Route path="/Physics"   element={<Physics   />} />
        <Route path="/Math"      element={<Math      />} />
        <Route path="/Music"     element={<Music     />} />

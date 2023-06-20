@@ -12,6 +12,7 @@ import   *    as BsIcons   from 'react-icons/bs'  ;
 export const SidebarData = [
     {title: "Home",        path:  "/",          icon:  <AiIcons.AiFillHome />,             cName: "nav-text"},
     {title: "Portfolio",   path:  "/Portfolio", icon:  <BsIcons.BsFillFileRichtextFill />, cName: "nav-text"},
+    {title: "Research",    path:  "/Research",  icon:  <BsIcons.BsFillFileRichtextFill />, cName: "nav-text"},
     {title: "Physics",     path:  "/Physics",   icon:  <DvIcons.DiAtom />,                 cName: "nav-text"},
     {title: "Mathematics", path:  "/Math",      icon:  <TbIcons.TbMathIntegralX />,        cName: "nav-text"},
     {title: "Music",       path:  "/Music",     icon:  <GiIcons.GiGuitarBassHead />,       cName: "nav-text"},

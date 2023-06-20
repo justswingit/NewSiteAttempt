@@ -1,5 +1,5 @@
 import React from 'react'
-import './SpecialTopics.css'
+import "../../PortfolioDetail/Portfolio.css"
 
 function MATRL290() {
   return (

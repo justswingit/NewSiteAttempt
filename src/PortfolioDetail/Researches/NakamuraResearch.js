@@ -1,9 +1,11 @@
 import React from 'react';
-import './ResearchProjects.css';
+import "../../PortfolioDetail/Portfolio.css"
 
 function NakamuraResearch() {
   return (
     <>
+    <div className ='nakamuraResearch'>
+
       <h1> Dr. Shuji Nakamura's undergrad research intern at UCSB</h1>
       <p>
         During my 1 year of research experience at Nakamura's lab, I was in charge of characterization
@@ -21,6 +23,7 @@ function NakamuraResearch() {
         bridging E&M, Quantum Mechanics, Condensed Matter and Semiconductor Physics altogether. 
       </p>
       <br/>
+    </div>
     </>
   )
 }

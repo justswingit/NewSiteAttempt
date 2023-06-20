@@ -1,5 +1,5 @@
 import React from 'react';
-import './ResearchProjects.css';
+import "../../PortfolioDetail/Portfolio.css"
 import NakamuraSection from './NakamuraResearch';
 import SFSUResearch from './SFSUResearch';
 
@@ -8,7 +8,7 @@ function ResearchProjects() {
   return (
     <>
       <div className='researchProjects'>
-        <hr />
+        <hr/>
         <h1>Research Projects</h1>
       </div>
       <NakamuraSection />

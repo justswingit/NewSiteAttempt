@@ -1,5 +1,5 @@
 import React from 'react'
-import './FeaturedClasswork.css'
+import "../../PortfolioDetail/Portfolio.css"
 import Phys123A  from './Phys123A'
 import Phys123B  from './Phys123B'
 import Phys141   from './Phys141'

@@ -1,5 +1,6 @@
 import React from 'react'
-import './SpecialTopics.css'
+// import './SpecialTopics.css'
+import "../../PortfolioDetail/Portfolio.css"
 import ECE594U from './ECE594U'
 import MATRL290 from './MATRL290'
 
