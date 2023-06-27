@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/NewSiteAttempt/static/css/main.a9f0b65f.css",
-    "main.js": "/NewSiteAttempt/static/js/main.fb72c24e.js",
+    "main.css": "/NewSiteAttempt/static/css/main.9b97fcd8.css",
+    "main.js": "/NewSiteAttempt/static/js/main.2c99ced2.js",
     "static/media/PhysicsHeaderImage02.png": "/NewSiteAttempt/static/media/PhysicsHeaderImage02.bcbeae5c597a1144d138.png",
+    "static/media/DicingWafersForMOCVD.png": "/NewSiteAttempt/static/media/DicingWafersForMOCVD.22ee0d2d5dad3ac0ada5.png",
     "static/media/AboutHeaderImage05.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage05.16c2c4bc71e1edf59f06.JPG",
     "static/media/AboutHeaderImage01.JPG": "/NewSiteAttempt/static/media/AboutHeaderImage01.a24c90c917d464fc9bc1.JPG",
     "static/media/HomeHeaderImage01.jpeg": "/NewSiteAttempt/static/media/HomeHeaderImage01.72d06975e66add94b5ac.jpeg",
     "static/media/PortfolioHeaderImage01.jpeg": "/NewSiteAttempt/static/media/PortfolioHeaderImage01.0a40229b3fe17741fa09.jpeg",
+    "static/media/Picture1.png": "/NewSiteAttempt/static/media/Picture1.756deaf3aec0d0b4dd82.png",
     "static/media/MathHeaderImage01.png": "/NewSiteAttempt/static/media/MathHeaderImage01.f3c5314719215a2834ea.png",
     "static/media/MusicHeaderImage01.png": "/NewSiteAttempt/static/media/MusicHeaderImage01.748a6cd86d2cb2039c3c.png",
+    "static/media/B221017AL_RSM.jpg": "/NewSiteAttempt/static/media/B221017AL_RSM.1058f17f5fccc334aa57.jpg",
+    "static/media/Picture3.jpg": "/NewSiteAttempt/static/media/Picture3.cc0d2ac187d99e388b72.jpg",
+    "static/media/WireBonding.jpg": "/NewSiteAttempt/static/media/WireBonding.9011f1fefb49cce1cc6b.jpg",
+    "static/media/Picture2.png": "/NewSiteAttempt/static/media/Picture2.0484415788991415931a.png",
     "index.html": "/NewSiteAttempt/index.html",
-    "main.a9f0b65f.css.map": "/NewSiteAttempt/static/css/main.a9f0b65f.css.map",
-    "main.fb72c24e.js.map": "/NewSiteAttempt/static/js/main.fb72c24e.js.map"
+    "main.9b97fcd8.css.map": "/NewSiteAttempt/static/css/main.9b97fcd8.css.map",
+    "main.2c99ced2.js.map": "/NewSiteAttempt/static/js/main.2c99ced2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f0b65f.css",
-    "static/js/main.fb72c24e.js"
+    "static/css/main.9b97fcd8.css",
+    "static/js/main.2c99ced2.js"
   ]
 }
